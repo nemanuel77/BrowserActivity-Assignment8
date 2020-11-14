@@ -130,7 +130,7 @@ public class BrowserActivity extends AppCompatActivity implements
             Toast.makeText(this, "Please instantiate a new browser first.", Toast.LENGTH_LONG).show();
         }
 
-        //PLF.sendURLtoList(string);
+
     }
 
 
