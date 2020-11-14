@@ -33,7 +33,7 @@ public class PagerFragment extends Fragment {
     FragmentManager fm;
     getFragments parentActivity;
 
-    
+
 
     // TODO: Rename and change types of parameters
     private ArrayList<PageViewerFragment> internalArrayList = new ArrayList<PageViewerFragment>();
@@ -72,8 +72,7 @@ public class PagerFragment extends Fragment {
             Log.d("YYY","saveInstanceState NOT FIRED.");
         }
 
-        /*Log.d("ZZZ","saveInstanceState is " +savedInstanceState);
-        Log.d("VVV","getArguments is " + getArguments());*/
+       
 
     }
 
